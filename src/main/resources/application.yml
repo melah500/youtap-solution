@@ -1,0 +1,9 @@
+server:
+  port: 8090
+
+typicode:
+  url: https://jsonplaceholder.typicode.com/users
+
+spring:
+  application:
+    name: youtap-user-service
